@@ -35,3 +35,4 @@ board = list<list<Cell>>
 bombermans = map<string, Bomberman>
 bombs = map<string, list<Bomb>>
 explosions = list<Explosion>
+explosion_radiuses = list<uint>
