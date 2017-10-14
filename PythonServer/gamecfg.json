@@ -4,7 +4,7 @@
 		"command_files": [
 			"ks/commands"
 		],
-		"allowed_teams": [],
+		"allowed_teams": {},
 		"offline_mode": true,
 		"": "online configs",
 		"match_id": "0"
